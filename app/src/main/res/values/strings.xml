@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ADSegundaPractica</string>
+    <string name="todo">TODO</string>
+    <string name="btInsertar">Insertar</string>
+    <string name="etNombre">Introduzca un nombre</string>
+    <string name="etTelefono">Introduzca el numero de teléfono</string>
+    <string name="btEditar">Editar</string>
+    <string name="etFechNac">Pulse para añadir una fecha</string>
+    <string name="no_se_han_encontrado_registros">no se han encontrado registros</string>
+</resources>
